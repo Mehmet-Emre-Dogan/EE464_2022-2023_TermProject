@@ -1,0 +1,21 @@
+Circuit: * D:\Documents\GITHUB_PRIVATE_CODES\EE464_2022-2023_TermProject\simulations\spice\555vibrator_1k44_2k88.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Sat Feb 04 15:51:42 2023
+Total elapsed time: 0.053 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 11402
+traniter = 11394
+tranpoints = 2958
+accept = 2502
+rejected = 456
+matrix size = 14
+fillins = 0
+solver = Normal
+Matrix Compiler1: 384 bytes object code size  0.1/0.1/[0.0]
+Matrix Compiler2: 776 bytes object code size  0.1/0.1/[0.0]
+
