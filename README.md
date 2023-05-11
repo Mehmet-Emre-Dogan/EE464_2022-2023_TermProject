@@ -5,3 +5,9 @@
 
 # Magnetic Design Report
  https://github.com/Mehmet-Emre-Dogan/EE464_2023_HW2_Team08
+ 
+ # Experiments
+ 
+ ## 0th Experiment
+ https://youtu.be/MJ3PV6YCNdQ
+ 
