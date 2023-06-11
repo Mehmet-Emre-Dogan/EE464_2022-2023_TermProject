@@ -1354,7 +1354,6 @@
     )
   )
 
-
   (junction (at 222.25 85.725) (diameter 0) (color 0 0 0 0)
     (uuid 068f7371-f1fe-45e3-ba3a-f33a65649efe)
   )
@@ -2228,7 +2227,7 @@
     (uuid 2df7f288-49d1-4fe5-b2e1-78502a8f2d8e)
     (property "Reference" "T1" (id 0) (at 250.19 33.02 0))
     (property "Value" "Transformer_1P_2S" (id 1) (at 250.19 35.56 0))
-    (property "Footprint" "" (id 2) (at 250.19 48.895 0)
+    (property "Footprint" "CUSTOM_FOOTPRINTS:Custom_Transformer-P0.5-7" (id 2) (at 250.19 48.895 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 250.19 48.895 0)
@@ -3335,7 +3334,7 @@
       (reference "Rz1") (unit 1) (value "20 kR") (footprint "Resistor_SMD:R_2010_5025Metric_Pad1.40x2.65mm_HandSolder")
     )
     (path "/2df7f288-49d1-4fe5-b2e1-78502a8f2d8e"
-      (reference "T1") (unit 1) (value "Transformer_1P_2S") (footprint "")
+      (reference "T1") (unit 1) (value "Transformer_1P_2S") (footprint "CUSTOM_FOOTPRINTS:Custom_Transformer-P0.5-7")
     )
     (path "/7170042a-a2bc-4332-aac4-507f85c08ee1"
       (reference "U1") (unit 1) (value "UCC2813D-1") (footprint "CUSTOM_FOOTPRINTS:UCC2813-1D")
