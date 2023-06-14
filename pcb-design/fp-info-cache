@@ -1,4 +1,4 @@
-20600181871852690
+20601868393910892
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -2407,6 +2407,13 @@ Current_sensor
 0
 0
 0
+CUSTOM_FOOTPRINTS
+Custom_Transformer-P0.5-7
+
+
+0
+14
+14
 CUSTOM_FOOTPRINTS
 P7.62mm_ScrewTerminal_01x02
 
